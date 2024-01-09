@@ -27,6 +27,9 @@ The dataset is quite comprehensive and contains various columns relating to info
   - Types of incidents: (felony, misdemeanor, violation)
   - Jurisdiction of where the incident occurred
 
+  To carry out geospatial analysis we have used a geoJSON file containing information about the boroughs of New York. The data is available at https://data.cityofnewyork.us/City-Government/DSNY-Zones/ak2e-nbe8.
+
+
 # Questions
 Every data science project requires a set of questions prepared beforehand, this helps in guiding the analysis and also helps in keeping the analysis focused. The questions that we will be answering in this project are:
 
