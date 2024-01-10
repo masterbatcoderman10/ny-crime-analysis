@@ -77,3 +77,9 @@ We share some of the results of the analysis conducted.
   - ~45k cases of grand larcency
 - Upon conducting analysis of crimes per 1000, Manhattan slightly edges Bronx with ~71 crimes/1000 people, Bronx has 68.
 - Doing a similar analysis of the 10 most reported dangerous/violent crimes results in Bronx having the highest with ~41 dangerous crimes per 1000 people, this is 10 more dangerous crimes than Manhattan (per 1000 people).
+
+Here are some of the visualizations created during the analysis:
+- A heatmap of the counts of the top 10 crimes in each police region:
+![heatmap](./Data/heatmap_crime.png)
+- A choropleth map of the counts of all crimes per 100 in the 5 boroughs:
+![choropleth](./Data/crimes_choro.png)
